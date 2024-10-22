@@ -280,8 +280,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectToRotate: {fileID: 2195042291039803458}
-  particlePrefab: {fileID: 4738196761104558425, guid: df2e5496b1b4e4b419a87ccadeaae252,
-    type: 3}
+  particlePrefab: {fileID: 4738196761104558425, guid: df2e5496b1b4e4b419a87ccadeaae252, type: 3}
   shouldLook: 1
 --- !u!65 &2784334381379597326
 BoxCollider:
@@ -302,7 +301,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
+  m_Size: {x: 1.8895273, y: 1.5185792, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!95 &8229179345324108118
 Animator:
