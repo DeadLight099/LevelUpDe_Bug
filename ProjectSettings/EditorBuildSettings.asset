@@ -4,5 +4,50 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2e8132b5dde0abc48b4c644dda0e8b56
+  - enabled: 1
+    path: Assets/Scenes/Comics/ComicsToLevel1.unity
+    guid: 19f111b356b4fce4ea742f1890531e07
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: ae528e9fc2357e7448ec34794d5531be
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 2dfe6bc0979fae446af0c675c8cba879
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 65f835fd421356a4c8e86a238fb738a2
+  - enabled: 1
+    path: Assets/Scenes/Comics/ComicsToLevel4.unity
+    guid: d02ff95189a10c64ab416ce675d7dc20
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 6b3681f1cf56a534d929a3473f12a677
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: a502bda8d2e5f424b8ccde2e99ccf0dc
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 4b4c95c41dfece843a2daf79e7b47923
+  - enabled: 1
+    path: Assets/Scenes/Comics/ComicsToLevel7.unity
+    guid: cf572f802380d744dad222d3e3a7cc5b
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: ebb7b1f1f160ca3439eeeef43b9ff88a
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 33636de0feba6944bae74e45d8738702
+  - enabled: 1
+    path: Assets/Scenes/Comics/ComicsToLevel9.unity
+    guid: 864f730aa669a864293464ff9026854c
+  - enabled: 1
+    path: Assets/Scenes/LevelBoss.unity
+    guid: 8c968c69d113a504cb75649703458442
+  - enabled: 1
+    path: Assets/Scenes/Comics/FinalComic.unity
+    guid: 134e439b638e7f74c9100a962968af2a
   m_configObjects: {}
